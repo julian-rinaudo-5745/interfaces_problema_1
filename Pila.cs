@@ -20,7 +20,7 @@ namespace interfaces_problema_1
 
         public bool EstaVacia()
         {
-            return Elementos.Length == 0;
+            return Contador == 0;
         }
 
         public object Extraer() 
