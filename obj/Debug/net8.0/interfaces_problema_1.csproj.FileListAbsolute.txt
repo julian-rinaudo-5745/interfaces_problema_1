@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\obj\Debug\net8.0\interfaces_problema_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\obj\Debug\net8.0\interfaces_problema_1.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\obj\Debug\net8.0\interfaces_problema_1.AssemblyInfo.cs
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\obj\Debug\net8.0\interfaces_problema_1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\bin\Debug\net8.0\interfaces_problema_1.exe
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\bin\Debug\net8.0\interfaces_problema_1.deps.json
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\bin\Debug\net8.0\interfaces_problema_1.runtimeconfig.json
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\bin\Debug\net8.0\interfaces_problema_1.dll
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\bin\Debug\net8.0\interfaces_problema_1.pdb
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\obj\Debug\net8.0\interfaces_problema_1.dll
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\obj\Debug\net8.0\refint\interfaces_problema_1.dll
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\obj\Debug\net8.0\interfaces_problema_1.pdb
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\obj\Debug\net8.0\interfaces_problema_1.genruntimeconfig.cache
+C:\Users\usuario\Desktop\UTN Julián\Progra II\interfaces_problema_1\obj\Debug\net8.0\ref\interfaces_problema_1.dll
